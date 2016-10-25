@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automation Test]">
+  <test name="Smoke Tests(failed)">
+    <classes>
+      <class name="TestFiles.ShoppingTest">
+        <methods>
+          <include name="setup"/>
+          <include name="Login"/>
+          <include name="AddItem"/>
+        </methods>
+      </class> <!-- TestFiles.ShoppingTest -->
+    </classes>
+  </test> <!-- Smoke Tests(failed) -->
+</suite> <!-- Failed suite [Automation Test] -->
