@@ -1,4 +1,4 @@
-## Automation Project
+## Automation Project-Online_Shopping
 
 ### A project, automating a test scenario of online shopping experience on Amazon.com
 
