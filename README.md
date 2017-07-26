@@ -1,8 +1,8 @@
-## Online_Shopping
+## Automation Project
 
 ### A project, automating a test scenario of online shopping experience on Amazon.com
 
-#### Technologies/Frameworks/Tools used : Selenium,TestNG
+#### Technologies/Frameworks/Tools used : Selenium using Page Object Design Pattern,TestNG
 
 The tasks being automated are as follows:  
 1.Login to Amazon.com using the user's ID and password.  
